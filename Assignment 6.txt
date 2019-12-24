@@ -1,0 +1,25 @@
+Answer1: Object-oriented programming is a programming paradigm based on the concept of "objects", which can contain data, in the form 
+of fields, and code, in the form of procedures. A feature of objects is an object's procedures that can access and often 
+modify the data fields of the object with which they are associated
+
+Answer 2: Benefits of OOPs:
+- Modularity for easier troubleshooting. Something has gone wrong, and you have no idea where to look.
+- Reuse of code through inheritance. ...
+- Flexibility through polymorphism. ...
+- Effective problem solving.
+
+Answer3: A function is a piece of code that is called by name. It can be passed data to operate on (i.e. the parameters) 
+and can optionally return data (the return value). All data that is passed to a function is explicitly passed. 
+A method is a piece of code that is called by a name that is associated with an object.
+
+Answer4:
+Class: In object-oriented programming , a class is a template definition of the method s and variable s in a particular 
+kind of object . Thus, an object is a specific instance of a class; it contains real values instead of variables.
+Object: In computer science, an object can be a variable, a data structure, a function, or a method, and as such, 
+is a value in memory referenced by an identifier.
+Attribute: In computing, an attribute is a specification that defines a property of an object, element, or file. 
+It may also refer to or set the specific value for a given instance of such. For clarity, attributes should more correctly 
+be considered metadata.
+Behavior: A class's behavior determines how an instance of that class operates; for example, how it will "react" if asked to
+do something by another class or object or if its internal state changes. Behavior is the only way objects can do anything to
+themselves or have anything done to them.
